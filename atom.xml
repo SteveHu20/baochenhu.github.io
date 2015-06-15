@@ -4,7 +4,11 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://baochenhu.github.io/atom.xml" rel="self"/>
   <link href="http://baochenhu.github.io/"/>
+<<<<<<< HEAD
   <updated>2015-06-09T22:24:57-04:00</updated>
+=======
+  <updated>2015-06-09T21:41:36-04:00</updated>
+>>>>>>> 412fa6bea699682673d7f08c95c84a7a6ab55ed0
   <id>http://baochenhu.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
