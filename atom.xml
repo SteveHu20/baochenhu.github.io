@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://baochenhu.github.io/atom.xml" rel="self"/>
   <link href="http://baochenhu.github.io/"/>
-  <updated>2015-06-15T23:03:59-04:00</updated>
+  <updated>2015-06-16T22:14:18-04:00</updated>
   <id>http://baochenhu.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,10 +18,23 @@
     <link href="http://baochenhu.github.io/blog/2015/06/15/titile/"/>
     <updated>2015-06-15T17:30:49-04:00</updated>
     <id>http://baochenhu.github.io/blog/2015/06/15/titile</id>
-    <content type="html"><![CDATA[<div>
-  <h>hello</h>
-</div>
+    <content type="html"><![CDATA[<p>Check out this neat program I wrote:
+&lsquo;&rsquo;&lsquo;
+x = 0
+x = 2 + 2
+what is x
+&rsquo;&lsquo;&rsquo;
+1. Item 1
+  1.A corollary to the above item.
+  2.Yet another point to consider.
+2. Item 2
+  *A corollary to the above item.
+    * this is inteneded four spaces, because its'</p>
 
+<blockquote><p>Paron my french
+<em>This texe will be itallic</em>
+<strong>This text will be bold</strong>
+<a href="www.google.com">vist me</a></p></blockquote>
 ]]></content>
   </entry>
   
